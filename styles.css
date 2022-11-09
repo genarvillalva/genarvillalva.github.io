@@ -25,10 +25,10 @@ body {
 }
 
 .assignment img:hover {
-    border:4px dashed #fee36e;
+    border:4px dashed #FEE36E;
 }
 h1 {
-    color: #f16775;
+    color: #F16775;
     text-align: center;
 }
 h1:hover {
@@ -44,5 +44,5 @@ a {
 }
 
 a:hover {
-    color: #fee36e;
+    color: #FEE36E;
 }
